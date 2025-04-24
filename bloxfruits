@@ -1,8 +1,8 @@
 local redzlib = loadstring(game:HttpGet("https://raw.githubusercontent.com/tbao143/Library-ui/refs/heads/main/Redzhubui"))()
 
 local Window = redzlib:MakeWindow({
-  Title = "REDz Hub | Blox Fruits",
-  SubTitle = "CRACKED BY NXGHTSHADOW",
+  Title = "Redxz Hub | Blox Fruits",
+  SubTitle = "CRACKED BY Redz9999",
   SaveFolder = "testando | redz lib v5.lua"
 })
 
@@ -61,7 +61,7 @@ Tab1:AddToggle({
 Tab1:AddSlider({
   Name = "Speed",
   Min = 1,
-  Max = 100,
+  Max = 10000000000000000000000000000000000000000000000000000,
   Increase = 1,
   Default = 16,
   Callback = function(Value)
